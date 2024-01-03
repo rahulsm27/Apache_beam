@@ -32,4 +32,8 @@ Data Encoding and Decdoing
 Chapter 6:
 Type hints
 
-Chapter 7: Straming Introduction
+Chapter 7: 
+Streaming Introduction
+
+Chapter 8:
+Window Functions
